@@ -1,0 +1,50 @@
+.general{
+  background-color: #7ebc7c;
+  height: 400px;
+  width: 850px;
+}
+
+.subgeneral{
+  background-color:#7ebc7c;
+  height: 350px;
+  width: 800px;
+  border:5px solid white;
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+
+.arco1{
+  background-color:#7ebc7c;
+  height: 150px;
+  width: 80px;
+  border-top:5px solid white;
+  border-right:5px solid white;
+  border-bottom: 5px solid white;
+  position:relative;
+  top:100px;
+}
+
+.arco2{
+  background-color:#7ebc7c;
+  height: 150px;
+  width: 80px;
+  border-top:5px solid white;
+  border-left:5px solid white;
+  border-bottom: 5px solid white;
+  position: relative;
+  top:-60px;
+  left: 715px;
+}
+.centro{
+  background-color:#7ebc7c;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: white;
+  border-width: 5px;
+  position: relative;
+  bottom: 220px;
+  left: 300px;
+  }
